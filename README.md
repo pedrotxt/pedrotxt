@@ -1,8 +1,8 @@
 ## Olá, 👋
 ### Me chamo Pedro Henrique, e sou Desenvolvedor <strong>Front-End</strong>
- Apaixonado por tecnlogia, sempre buscando melhorar, criar boas relações e evoluir junto com todos.
+ Apaixonado por tecnologia, sempre buscando melhorar, criar boas relações e evoluir junto com todos.
  
- ### 💌 Links para meu contato: 👇
+ ### 💌 Links para contato: 👇
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-p/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-p/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pehhp2021@gmail.com)
